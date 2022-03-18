@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jeet2703
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on C++ and Java projects
+- 👀 I’m interested in web develoment
+- 🌱 I’m currently working in React js and mongoDB
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 Email - shahjeet64@gmail.com
 
 <!---
